@@ -1,4 +1,5 @@
 AÇIKLAMA :Mango bitkisinin yaprağını kullanarak görüntü işleme ile hastalık tespiti  için model oluşturdum.Ve flask ile bu modeli kullanarak hastalığı ve çözümünü gösteren bir websitesi oluşturdum.
+Kullanılan Dataset:https://www.kaggle.com/datasets/aryashah2k/mango-leaf-disease-dataset?resource=download
 
 
 ![bitkianasayfa](https://github.com/user-attachments/assets/5a5efeb8-e3ee-43eb-b42d-7d9131254b75)
