@@ -1,4 +1,4 @@
-Mango bitkisinin yaprağını kullanarak görüntü işleme ile hastalık tespiti  için model oluşturdum.Ve flask ile bu modeli kullanarak hastalığı ve çözümünü gösteren bir websitesi oluşturdum.
+AÇIKLAMA :Mango bitkisinin yaprağını kullanarak görüntü işleme ile hastalık tespiti  için model oluşturdum.Ve flask ile bu modeli kullanarak hastalığı ve çözümünü gösteren bir websitesi oluşturdum.
 
 
 
